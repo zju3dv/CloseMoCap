@@ -26,7 +26,7 @@ If you find this code useful for your research, please cite us using the followi
   year = {2023},
   publisher = {Association for Computing Machinery},
   doi = {10.1145/3618336},
-  journal = {ACM Trans. Graph.},
+  journal = {ACM Transactions on Graphics},
   month = {dec},
   numpages = {14}
 }
