@@ -9,10 +9,10 @@
 ![star](https://img.shields.io/github/stars/zju3dv/CloseMoCap)
 [![license](https://img.shields.io/badge/license-zju3dv-white)](license)
 
-This repository contains the code for our new work, "Reconstructing Close Human Interaction from Multiple Views", focusing on human pose estimation in close interaction scenarios.
-
-
 https://github.com/zju3dv/CloseMoCap/assets/22812405/075bdd37-bb10-4c72-bab8-8464b305512b
+
+This repository holds the code for our SIGGRAPH Asia 2023 project "Reconstructing Close Human Interaction from Multiple Views". The paper focuses on human pose estimation in close interaction scenarios. The code and data will be made publicly available soon, please stay tuned.
+
 
 
 ## Citation
