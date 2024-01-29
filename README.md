@@ -11,6 +11,16 @@
 
 https://github.com/zju3dv/CloseMoCap/assets/22812405/075bdd37-bb10-4c72-bab8-8464b305512b
 
+
+
+https://github.com/zju3dv/CloseMoCap/assets/22812405/daa6e4e1-f982-42f0-99f6-78cac68ea5c2
+
+
+
+https://github.com/zju3dv/CloseMoCap/assets/22812405/1064ceec-679d-4e5d-b888-8a7bcff73cbc
+
+
+
 This repository holds the code for our SIGGRAPH Asia 2023 project "Reconstructing Close Human Interaction from Multiple Views". The paper focuses on human pose estimation in close interaction scenarios. The code and data will be made publicly available soon, please stay tuned.
 
 
